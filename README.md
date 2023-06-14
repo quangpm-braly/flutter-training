@@ -67,7 +67,7 @@ Tạo 1 ứng dụng shopping
    -  Có thanh search product.
        
   Màn Detail
-   - Show detail sản phẩm với hình ảnh và desription.
+   - Show detail sản phẩm với hình ảnh và description.
 
 ## III. Flutter State Management
 ### Mục tiêu:
