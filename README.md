@@ -59,18 +59,15 @@
 #### 4. Demo App
 Tạo 1 ứng dụng shopping
     
-  Screen one - Home screen 
-   -  On main screen show list of products - [API](https://fakestoreapi.com/products)
+  Màn Home 
+   -  Hiển thị list product - [API](https://fakestoreapi.com/products)
       
-   -  Open product detail on it’s click - [API](https://fakestoreapi.com/products/1)
+   -  Chuyển sang màn detail nếu click vào 1 sản phẩm - [API](https://fakestoreapi.com/products/1)
       
-   -  Add option to search products by categories - [API](https://fakestoreapi.com/products/categories)
-      
-   -  Add option to check out all product in cart
- 
-  Screen two - Detail screen
-   -  Show full detail with images and description 
-   -  Add option to add/remove the product from the cart ( Add/delete an item in local database)  
+   -  Có thanh search product.
+       
+  Màn Detail
+   - Show detail sản phẩm với hình ảnh và desription.
 
 ## III. Flutter State Management
 ### Mục tiêu:
@@ -81,7 +78,7 @@ Tạo 1 ứng dụng shopping
 - [GetX State Management](https://github.com/jonataslaw/getx)
 - [GetX Tutorial](https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/)
 #### 2. Demo App
-
+Chỉnh sửa app shopping ở mục II sử dụng GetX.
 ## IV. Flutter Environment Management
 - [Flutter Flavor](https://github.com/vanle57/flutter-flavor)
 
