@@ -92,5 +92,5 @@ Chỉnh sửa app shopping ở mục II sử dụng GetX.
 * [Memory allocation](https://docs.flutter.dev/development/tools/devtools/memory)
 * Flutter performance [best practices](https://docs.flutter.dev/perf/best-practices)
 * [Flutter Modularization](https://medium.com/flutter-community/mastering-flutter-modularization-in-several-ways-f5bced19101a)
-* [[Flutter Gallery]](https://github.com/flutter/gallery)
+* [Flutter Gallery](https://github.com/flutter/gallery)
 
