@@ -74,7 +74,8 @@ Tham khảo UI: https://dribbble.com/shots/3071109-Converse-Product-page-with-Ad
 - Tìm hiểu về GetX và viết 1 app demo sử dụng GetX.
 #### 1. State Management
 - [Introduction](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro) to state management
-- [GetX State Management](https://github.com/jonataslaw/getx)
+- [GetX](https://github.com/jonataslaw/getx) State Management
+- [Bloc](https://blog.logrocket.com/state-management-flutter-bloc-pattern) State Management
 - [GetX Tutorial](https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/)
 #### 2. Demo App
 Chỉnh sửa app shopping ở mục II sử dụng GetX.
