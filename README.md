@@ -50,6 +50,7 @@
 	* [http](https://pub.dev/packages/http) for networking
 	* [Dio](https://pub.dev/packages/dio)-  powerful HTTP client of dart
   * [Retrofit](https://medium.com/mindful-engineering/retrofit-the-easiest-way-to-call-rest-apis-is-flutter-fe55d1e7c5c2)
+  * Flutter networking [tutorial](https://www.kodeco.com/5896601-flutter-networking-tutorial-getting-started)
 * [JSON and serialization](https://docs.flutter.dev/data-and-backend/json)
 * [Persistant](https://docs.flutter.dev/cookbook/persistence)
   * [Store key-vaue pair](https://docs.flutter.dev/cookbook/persistence/key-value)
@@ -63,12 +64,11 @@ Tạo 1 ứng dụng shopping
    -  Hiển thị list product - [API](https://fakestoreapi.com/products)
       
    -  Chuyển sang màn detail nếu click vào 1 sản phẩm - [API](https://fakestoreapi.com/products/1)
-      
-   -  Có thanh search product.
-       
+             
   Màn Detail
    - Show detail sản phẩm với hình ảnh và description.
 
+Tham khảo UI: https://dribbble.com/shots/3071109-Converse-Product-page-with-Add-to-cart-concept
 ## III. Flutter State Management
 ### Mục tiêu:
 - Hiểu được state management là gì và biết được các state management hay được sử dụng trong Flutter.
