@@ -1,4 +1,4 @@
-# Master plan - Flutter training
+# Flutter training
 
 ## I. Dart Language
 ### Mục tiêu:
@@ -49,7 +49,6 @@
 	* [Networking in flutter](https://docs.flutter.dev/development/data-and-backend/networking)
 	* [http](https://pub.dev/packages/http) for networking
 	* [Dio](https://pub.dev/packages/dio)-  powerful HTTP client of dart
-  * [Retrofit](https://medium.com/mindful-engineering/retrofit-the-easiest-way-to-call-rest-apis-is-flutter-fe55d1e7c5c2)
   * Flutter networking [tutorial](https://www.freecodecamp.org/news/learn-networking-in-flutter/)
 * [JSON and serialization](https://docs.flutter.dev/data-and-backend/json)
 * [Persistant](https://docs.flutter.dev/cookbook/persistence)
