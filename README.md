@@ -71,6 +71,7 @@ Tham khảo UI: https://dribbble.com/shots/3071109-Converse-Product-page-with-Ad
 ## III. Flutter State Management
 ### Mục tiêu:
 - Hiểu được state management là gì và biết được các state management hay được sử dụng trong Flutter.
+- Hiểu và áp dụng DI vào thực tế
 - Viết 1 app demo sử dụng GetX hoặc Bloc.
 #### 1. State Management
 - [Introduction](https://docs.flutter.dev/development/data-and-backend/state-mgmt/intro) to state management
