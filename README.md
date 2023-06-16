@@ -77,8 +77,9 @@ Tham khảo UI: https://dribbble.com/shots/3071109-Converse-Product-page-with-Ad
 - [GetX](https://github.com/jonataslaw/getx) State Management
 - [Bloc](https://blog.logrocket.com/state-management-flutter-bloc-pattern) State Management
 - [GetX Tutorial](https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/)
+- [Bloc Tutorial] (https://blog.logrocket.com/state-management-flutter-bloc-pattern/)
 #### 2. Demo App
-Chỉnh sửa app shopping ở mục II sử dụng GetX.
+Chỉnh sửa app shopping ở mục II sử dụng GetX hoặc Bloc.
 ## IV. Flutter Environment Management
 - [Flutter Flavor](https://github.com/vanle57/flutter-flavor)
 
