@@ -78,7 +78,7 @@ Tham khảo UI: https://dribbble.com/shots/3071109-Converse-Product-page-with-Ad
 - [GetX](https://github.com/jonataslaw/getx) State Management
 - [Bloc](https://blog.logrocket.com/state-management-flutter-bloc-pattern) State Management
 - [GetX Tutorial](https://blog.logrocket.com/ultimate-guide-getx-state-management-flutter/)
-- [Bloc Tutorial] (https://blog.logrocket.com/state-management-flutter-bloc-pattern/)
+- [Bloc Tutorial](https://blog.logrocket.com/state-management-flutter-bloc-pattern/)
 #### 2.Depenedecy Injection
 * [Introduction](https://www.geekyants.com/blog/understanding-dependency-injection-in-flutter-using-provider-143/) to dependency injection
 * [DI in flutter](https://medium.com/flutter-community/flutters-dependency-injection-c4f053e4408)
