@@ -1,6 +1,6 @@
 # Flutter training
 
-## I. Dart Language
+## I. Dart Language (1,5 days)
 ### Mục tiêu:
 - Làm quen với cú pháp của ngôn ngữ Dart và vận dụng vào những bài toán cụ thể.
 - Hiểu được những điểm đặc trưng và khác biệt của Dart và những ngôn ngữ lập trình hướng đối tượng khác.
@@ -15,7 +15,7 @@
 - [Streams and Futures](https://www.kodeco.com/32851541-dart-futures-and-streams#:~:text=A%20Future%20represents%20a%20one,a%20line%20at%20a%20time)
 - [Sự khác biệt giữa Futures và Streams](https://magz.techover.io/2022/04/06/khac-biet-giua-future-va-stream/)
 
-## II. Flutter Tutorial
+## II. Flutter Tutorial (4,5 days)
 ### Mục tiêu:
 * Nắm được cơ bản về Flutter, các ưu nhược điểm, lý do tại sao chọn Flutter so với native hay các nền tảng cross-platform khác.
 * Setup môi trường Flutter và chạy được app đầu tiên.
@@ -68,7 +68,7 @@ Tạo 1 ứng dụng shopping
    - Show detail sản phẩm với hình ảnh và description.
 
 Tham khảo UI: https://dribbble.com/shots/3071109-Converse-Product-page-with-Add-to-cart-concept
-## III. Flutter State Management
+## III. Flutter State Management (2,5 days)
 ### Mục tiêu:
 - Hiểu được state management là gì và biết được các state management hay được sử dụng trong Flutter.
 - Hiểu và áp dụng DI vào thực tế
