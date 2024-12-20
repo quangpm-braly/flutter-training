@@ -13,7 +13,7 @@
 - [Async-Await](https://dart.dev/codelabs/async-await) | [Lập trình bất đồng bộ với future, async, await](https://viblo.asia/p/flutter-lap-trinh-bat-dong-bo-voi-future-async-await-oOVlYpLaZ8W)
 - [Streams](https://dart.dev/tutorials/language/streams)
 - [Streams and Futures](https://www.kodeco.com/32851541-dart-futures-and-streams#:~:text=A%20Future%20represents%20a%20one,a%20line%20at%20a%20time)
-- [Sự khác biệt giữa Futures và Streams](https://magz.techover.io/2022/04/06/khac-biet-giua-future-va-stream/)
+- [Tìm hiểu về Futures và Streams](https://viblo.asia/p/lap-trinh-phan-ung-voi-flutter-hieu-ve-streams-va-future-trong-dart-va-cach-su-dung-chung-trong-flutter-5OXLAYvMLGr)
 
 ## II. Flutter Tutorial (4,5 days)
 ### Mục tiêu:
